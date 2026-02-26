@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "botbuilder": "^4.23.2",
+    "csv-parse": "^5.6.0",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.14.3",
+    "restify": "^9.1.0"
+  }
+}
